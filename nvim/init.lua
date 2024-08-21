@@ -1,0 +1,3 @@
+require("weemo")
+print("Hello")
+
